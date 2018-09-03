@@ -1,0 +1,9 @@
+{
+    "css/logo_modify.css": [
+        "public/css/logo_modify.css"
+    ],
+
+    "js/remove_help_tab.js": [
+        "public/js/remove_help_tab.js"
+    ]
+}
