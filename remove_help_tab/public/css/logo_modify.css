@@ -2,9 +2,10 @@
   display: block;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  content: url(https://pbs.twimg.com/profile_images/990649437402943489/JR4aYqmm.jpg);
+  content: url(https://team.techabout.com/wp-content/uploads/2020/04/cropped-TechAbout-Icon-32x32.png);
 }
 
 [data-type="help"] {
   display:none !important;
 }
+.dropdown-help {display: none!important;}
