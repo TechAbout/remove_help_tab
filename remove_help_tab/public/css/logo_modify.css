@@ -18,3 +18,9 @@ display: none !important;
 .centered img, .splash img {
     content: url(https://team.techabout.com/wp-content/uploads/2022/04/277553470_4977285769046328_7445694820546335623_n.jpeg) !important;
 }
+.widget.onboarding-widget-box {
+    margin-top: var(--margin-xs);
+    margin-bottom: var(--margin-2xl);
+    padding: var(--padding-lg);
+    display: none !important;
+}
