@@ -2,6 +2,10 @@ $(function () {
 	$('.dropdown-help').hide();
 });
 
+$(function() {
+	$('.dropdown-help').remove();  // or .remove();
+});
+
 frappe.get_desktop_icons = function (show_hidden, show_global) {
 	var out = [];
 
