@@ -9,7 +9,7 @@
 [data-type="help"] {
   display:none !important;
 }
-.dropdown-help {display: none!important;}
+.dropdown-help {display: none !important;}
 
 .footer-col-right.col-sm-6.col-12.footer-powered {
 display: none !important;
