@@ -1,11 +1,15 @@
-.erpnext-icon {
+.erpnext-icon, app-logo {
   display: block;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  content: url(https://team.techabout.com/wp-content/uploads/2020/04/cropped-TechAbout-Icon-32x32.png);
+  content: url(https://team.techabout.com/wp-content/uploads/2022/04/277553470_4977285769046328_7445694820546335623_n.jpeg) !important;
 }
 
 [data-type="help"] {
   display:none !important;
 }
 .dropdown-help {display: none!important;}
+
+.footer-col-right.col-sm-6.col-12.footer-powered {
+display: none !important;
+}
