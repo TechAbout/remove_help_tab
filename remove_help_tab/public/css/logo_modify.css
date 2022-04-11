@@ -1,8 +1,9 @@
-.erpnext-icon, app-logo {
+.erpnext-icon, .app-logo {
   display: block;
+  width: 140px !important;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  content: url(https://team.techabout.com/wp-content/uploads/2022/04/277553470_4977285769046328_7445694820546335623_n.jpeg) !important;
+  content: url(https://team.techabout.com/wp-content/uploads/2020/04/TechAbout-Logo-Dark-180x17.png) !important;
 }
 
 [data-type="help"] {
@@ -12,4 +13,8 @@
 
 .footer-col-right.col-sm-6.col-12.footer-powered {
 display: none !important;
+}
+
+.centered .splash img {
+    content: url(https://team.techabout.com/wp-content/uploads/2022/04/277553470_4977285769046328_7445694820546335623_n.jpeg) !important;
 }
