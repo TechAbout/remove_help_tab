@@ -6,6 +6,11 @@ $(function() {
 	$('.dropdown-help').remove();  // or .remove();
 });
 
+frappe.ready(() => {
+    $('.footer-powered").addClass("hide");
+});
+
+
 frappe.get_desktop_icons = function (show_hidden, show_global) {
 	var out = [];
 
